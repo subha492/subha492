@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subha492
 - 👀 I’m interested in writing python code 
-- 🌱 I’m currently learning Aeronautical Engineering
+- 🌱 I’m currently learning Aerospace Engineering
 - 💞️ I’m looking to collaborate on Airbus
 - 📫 How to reach me : 6009412359
 
